@@ -1,0 +1,11 @@
+
+The Excel solution helps town planners, especially the desk officer, record forms sold to professional association members. 
+The solution takes into account the date and time the form was given out and the amount paid. It also keeps a record of forms allocated to each professional 
+member and the forms remaining to be collected. A quarterly sales record is calculated for each member.
+
+Step 1:
+In the "List Data" sheet, input all the names of the members. The names in the column are for Demo. You should delete and replace with your names
+These changes will be reflected in the "Marketing Data Plan" sheet 
+
+Sheet 2:
+Choose the date the transaction was made, including the number of forms issued, the amount paid and the date the amount was paid. Changes will be made automatically
